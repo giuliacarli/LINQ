@@ -22,7 +22,7 @@ namespace LINQ.ConsoleApp
         {
             return valore1 + (int)valore2;
         }
-
+        //
         public static void CallMe(Sum functionToInvoke)
         {
             functionToInvoke(1, 2);
